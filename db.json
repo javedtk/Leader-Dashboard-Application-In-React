@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "todo": "Golu",
+      "label": "categorize",
+      "id": "5b00236a",
+      "date": "10/1/2022, 7:40:50 PM",
+      "isDone": false
+    },
+    {
+      "todo": "Golu2",
+      "label": "uncategorized",
+      "id": "d039d9b6",
+      "date": "10/1/2022, 7:40:55 PM",
+      "isDone": false
+    }
+  ],
+  "labels": [
+    {
+      "label": "STARTED",
+      "count": 0,
+      "id": "5ce4858b"
+    },
+    {
+      "label": "PROGRESS",
+      "count": 0,
+      "id": "e03ff958"
+    },
+    {
+      "label": "COMPLETED",
+      "count": 0,
+      "id": "6ea3be9f"
+    }
+  ]
+}
